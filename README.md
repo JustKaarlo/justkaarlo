@@ -44,17 +44,12 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/justkaarlo/justkaarlo/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/justkaarlo/justkaarlo/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/justkaarlo/justkaarlo/activity-graph-output/activity-graph.svg" height="100" alt="activity-graph graph"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/justkaarlo/justkaarlo/activity-graph-output/activity-graph.svg" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
 
-> ```Gmail``` ‎ **```justkaarlo@gmail.com```**  
-> ```Discord``` ‎ **```@justkaarlo```**
-
-###
-
-<img src="https://raw.githubusercontent.com/justkaarlo/justkaarlo/snake-output/snake.svg" alt="Snake animation" />
-
-###
+> ```Discord``` ‎ **```@justkaarlo```** ‎  ‎  ‎  ‎  ‎ ```Gmail``` ‎ **```justkaarlo@gmail.com```**  
