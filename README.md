@@ -14,12 +14,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=4&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=justkaarlo&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=16&order=3" height="200" alt="streak graph"  />
 </div>
